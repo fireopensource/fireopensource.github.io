@@ -1,4 +1,11 @@
-Infrastructure
+---
+layout: default
+title: Infrastructure
+parent: DarkForest-RGB
+nav_order: 3
+---
+
+# Infrastructure
 
 There are 3 types of infrastructure that can be built at stars:
 
