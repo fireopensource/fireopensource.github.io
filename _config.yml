@@ -4,6 +4,7 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+color_scheme: dark
 
 aux_links:
   Twitter: https://twitter.com/FireLanch
