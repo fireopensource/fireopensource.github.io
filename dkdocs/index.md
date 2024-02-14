@@ -1,6 +1,6 @@
 ---
 layout: default
-title: dkdocs
+title: DarkForest-RGB
 nav_order: 2
 has_children: true
 ---

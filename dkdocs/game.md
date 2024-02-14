@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttons
-parent: dkdocs
+parent: DarkForest-RGB
 nav_order: 2
 ---
 children
