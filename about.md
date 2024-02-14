@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Start Here
+title: About us
 nav_order: 4
 ---
 # About us
