@@ -36,7 +36,7 @@ We will build games like this:
 
 - RGB NFT projects will be able to enter the game world as game avatars. The community system and chat system will allow you to get closer to the fun of the community in the game.
 
-- The laws of the Dark Forest will support the game: Survival is the first principle.igrate to RGB On-Chain Game Everyone needs to develop. When you develop to a certain stage, you can find traces of others, and you can decide whether to establish diplomacy, attack, or become invisible. You monitor others, but you are also monitored by others. Attacks and diplomacy may expose your position, but you have to make choices in order to develop. Whoever wins the game will own the rewards of the entire universe (30% for community, 40% for winner, 30% for burn address). You will win 10,000$ per game and bring activity and funds to the community.
+- The laws of the Dark Forest will support the game: Survival is the first principle. Everyone needs to develop. When you develop to a certain stage, you can find traces of others, and you can decide whether to establish diplomacy, attack, or become invisible. You monitor others, but you are also monitored by others. Attacks and diplomacy may expose your position, but you have to make choices in order to develop. Whoever wins the game will own the rewards of the entire universe (30% for community, 40% for winner, 30% for burn address). You will win 10,000$ per game and bring activity and funds to the community.
 
 
 - Another features......
