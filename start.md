@@ -4,7 +4,7 @@ title: Start Here
 nav_order: 2
 ---
 
-WEB3 is a high-speed train with endless new concepts and rapid capital flow.
+Web3 is a high-speed train with endless new concepts and rapid capital flow.
 
 There is no shortage of bright and talented people launching a large number of projects, but the problem is:
 
