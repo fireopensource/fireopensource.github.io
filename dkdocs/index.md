@@ -48,4 +48,11 @@ Higher adoption will bring positive benefits and we will work with all RGB proto
 
 ## 4. Autonomous world
 
+The ultimate goal of this project is to build an autonomous world. We will open source the entire game project when it is mature enough and provides sufficient rewards to early users.
+
+A game involves many systems. Modern games often use exquisite graphics to attract players, and they formulate the rules of the game. We buy a good gaming experience and hand over the power of game design.
+
+An autonomous world must have the ability to survive on its own and have enough revenue to support the creations of various system designers. We can purchase different UI experience games. UI producers do not need to worry about copyright and other issues, they only need to create and connect to the blockchain. Game rules, such as weather system, combat system, resource system, dungeon system, etc. These systems will be created by talented players, and the community will vote to decide whether to include them. Of course, this is an open source project, and talented players can also create their own routes.
+
+This is an autonomous world where we not only play, but create.
 
