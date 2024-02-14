@@ -8,7 +8,8 @@ has_children: true
 
 We will aggregate multiple social media information to form a community list
 
-https://firelaunch-psi.vercel.app/
+
+[FireLaunchPad](https://firelaunch-psi.vercel.app/)
 
 This is our beta version, where the community will get to know themselves and launch themselves, and it will also be the entrance for us to expand a series of games for the community.
 
