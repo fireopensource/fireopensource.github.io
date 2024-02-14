@@ -23,3 +23,4 @@ We will collaborate with NFT/meme/infra projects to provide them with community 
 Last but not least, Bitcoin maximalism.
 
 ₿₿₿₿₿₿₿₿₿₿₿₿₿₿RG₿₿₿₿₿₿₿₿₿₿₿₿₿₿₿₿₿
+![Bitcoin maximalism](./assets/images/1.jpg "Bitcoin maximalism")
