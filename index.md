@@ -15,8 +15,8 @@ Most projects are eager to release their assets, but we are committed to providi
 
 This is what we will focus on:
 
-- Community
-- Game
+- Community 🫦
+- Game 🎮
 
 We will collaborate with NFT/meme/infra projects to provide them with community services and integrate their NFTs and tokens into the game.
 
