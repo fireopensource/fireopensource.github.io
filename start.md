@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Start Here
-nav_order: 1
+nav_order: 2
 ---
 
 WEB3 is a high-speed train with endless new concepts and rapid capital flow.
